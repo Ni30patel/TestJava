@@ -11,7 +11,7 @@ public class SpringBootDemoApplication {
 //		SpringApplicationBuilder app = new SpringApplicationBuilder(SpringBootDemoApplication.class);
 //				app.build().addListeners(new ApplicationPidFileWriter("./bin/shutdown.pid"));
 //				app.run();
-				System.out.println("Second run of spring boot app");
+				System.out.println("Third run of spring boot app");
 	}
 
 }
